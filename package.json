@@ -4,6 +4,6 @@
     "description": "*",
     "main": "Index.js",
     "scripts": {
-      "start": "node index.js"
+      "start": "index.js"
     }
   }
