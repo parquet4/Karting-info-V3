@@ -1,0 +1,9 @@
+{
+    "name": "karting-info",
+    "version": "1.0.0",
+    "description": "*",
+    "main": "Index.js",
+    "scripts": {
+      "start": "node index.js"
+    }
+  }
